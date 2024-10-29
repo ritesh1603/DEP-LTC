@@ -14,8 +14,16 @@ REMINDER_URL='[URL OBTAINED FOR T2]'
 ```
 5. `python3 app.py`
 
+Given below are the few key pages in the flow of the application
+
 This is the landing page for the LTC/TA applicant, providing the details to navigate and the key features
 ![Screenshot 2024-10-29 234306](https://github.com/user-attachments/assets/9bb42601-adc3-4ca1-a2d8-3767b2f6c086)
+
+This is the LTC Application Form page
+![Screenshot 2024-10-29 234944](https://github.com/user-attachments/assets/8bba4207-b912-4f73-8ada-dea08ddeea3d)
+
+This is the Dashboard for the Applicant to view the applications and the status as well as comments recieved
+![Screenshot 2024-10-29 234923](https://github.com/user-attachments/assets/0360a0c4-e275-40bf-8714-18430bc72129)
 
 This is the download PDF feature to print the application at any stage 
 ![Screenshot 2024-10-29 235048](https://github.com/user-attachments/assets/9c43d6d5-5226-44df-975f-70d18de174fa)
@@ -25,12 +33,6 @@ This is the Admin dashboard with the Search functionality for Users by Role and 
 
 This is the Admin functionality to Add Users via CSV files or direct update
 ![Screenshot 2024-10-29 235016](https://github.com/user-attachments/assets/13211ac2-84ff-4094-984d-12beb6e92864)
-
-This is the LTC Application Form page
-![Screenshot 2024-10-29 234944](https://github.com/user-attachments/assets/8bba4207-b912-4f73-8ada-dea08ddeea3d)
-
-This is the Dashboard for the Applicant to view the applications and the status as well as comments recieved
-![Screenshot 2024-10-29 234923](https://github.com/user-attachments/assets/0360a0c4-e275-40bf-8714-18430bc72129)
 
 
 
